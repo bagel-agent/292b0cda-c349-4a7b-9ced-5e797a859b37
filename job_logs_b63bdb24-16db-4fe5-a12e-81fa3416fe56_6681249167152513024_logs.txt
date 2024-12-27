@@ -1,0 +1,37 @@
+2024-12-23T17:26:49.845940828Z - 153t72dkvzf - INFO - N/A - QUEUED
+2024-12-23T17:26:49.859504488Z - 153t72dkvzg - INFO - N/A - QUEUED
+2024-12-23T17:26:49.873331579Z - 153t72dkvzh - INFO - N/A - QUEUED
+2024-12-23T17:26:49.873340487Z - 153t72dkvzi - INFO - N/A - QUEUED
+2024-12-23T17:26:50.546380046Z - 153t72dkvzk - INFO - N/A - PREPARING
+2024-12-23T17:30:24.726736707Z - 153t72dkwuu - INFO - N/A - RUNNING
+2024-12-23T17:31:09.259689715Z - 1rtpd10f8e1ow6 - INFO - Requirement already satisfied: pip in /opt/conda/lib/python3.10/site-packages (24.2) - RUNNING
+2024-12-23T17:31:09.259712639Z - 1rtpd10f8e1ow7 - INFO - Collecting pip - RUNNING
+2024-12-23T17:31:09.259724011Z - 1rtpd10f8e1ow8 - INFO -   Downloading pip-24.3.1-py3-none-any.whl.metadata (3.7 kB) - RUNNING
+2024-12-23T17:31:09.25973509Z - 1rtpd10f8e1ow9 - INFO - Downloading pip-24.3.1-py3-none-any.whl (1.8 MB) - RUNNING
+2024-12-23T17:31:09.259764165Z - 1rtpd10f8e1owa - INFO -    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.8/1.8 MB 35.2 MB/s eta 0:00:00 - RUNNING
+2024-12-23T17:31:09.25985487Z - 1rtpd10f8e1owb - INFO - Installing collected packages: pip - RUNNING
+2024-12-23T17:31:09.259876635Z - 1rtpd10f8e1owc - INFO -   Attempting uninstall: pip - RUNNING
+2024-12-23T17:31:09.259902174Z - 1rtpd10f8e1owd - INFO -     Found existing installation: pip 24.2 - RUNNING
+2024-12-23T17:31:09.259912895Z - 1rtpd10f8e1owe - INFO -     Uninstalling pip-24.2: - RUNNING
+2024-12-23T17:31:09.259926872Z - 1rtpd10f8e1owf - INFO -       Successfully uninstalled pip-24.2 - RUNNING
+2024-12-23T17:31:09.25993693Z - 1rtpd10f8e1owg - INFO - Successfully installed pip-24.3.1 - RUNNING
+2024-12-23T17:31:09.259951346Z - 1rtpd10f8e1owh - ERROR - WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager, possibly rendering your system unusable.It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv. Use the --root-user-action option if you know what you are doing and want to suppress this warning. - RUNNING
+2024-12-23T17:31:35.161099742Z - vx8bt8f4qxdqx - ERROR -   WARNING: The script lit is installed in '/root/.local/bin' which is not on PATH. - RUNNING
+2024-12-23T17:31:35.161128342Z - vx8bt8f4qxdqy - ERROR -   Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location. - RUNNING
+2024-12-23T17:31:44.162695577Z - nccy14f8pzeoa - ERROR -   WARNING: The script isympy is installed in '/root/.local/bin' which is not on PATH. - RUNNING
+2024-12-23T17:31:44.162718712Z - nccy14f8pzeob - ERROR -   Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location. - RUNNING
+2024-12-23T17:31:55.161848561Z - 166x7szf8juicm - ERROR -   WARNING: The scripts ccmake, cmake, cpack and ctest are installed in '/root/.local/bin' which is not on PATH. - RUNNING
+2024-12-23T17:31:55.161893733Z - 166x7szf8juicn - ERROR -   Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location. - RUNNING
+2024-12-23T17:32:07.161577574Z - 198b12if8pxmkn - ERROR -   WARNING: The script huggingface-cli is installed in '/root/.local/bin' which is not on PATH. - RUNNING
+2024-12-23T17:32:07.161602393Z - 198b12if8pxmko - ERROR -   Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location. - RUNNING
+2024-12-23T17:32:31.195338888Z - vnkbvjf8ea7u5 - ERROR -   WARNING: The script transformers-cli is installed in '/root/.local/bin' which is not on PATH. - RUNNING
+2024-12-23T17:32:31.195352406Z - vnkbvjf8ea7u6 - ERROR -   Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location. - RUNNING
+2024-12-23T17:32:33.263077662Z - vnkbvjf8ea7u7 - ERROR -   WARNING: The script datasets-cli is installed in '/root/.local/bin' which is not on PATH. - RUNNING
+2024-12-23T17:32:33.263090333Z - vnkbvjf8ea7u8 - ERROR -   Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location. - RUNNING
+2024-12-23T17:33:00.161959669Z - 1xxq7zif8dhcsv - ERROR -   WARNING: The scripts convert-caffe2-to-onnx, convert-onnx-to-caffe2 and torchrun are installed in '/root/.local/bin' which is not on PATH. - RUNNING
+2024-12-23T17:33:00.161979304Z - 1xxq7zif8dhcsw - ERROR -   Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location. - RUNNING
+2024-12-23T17:33:00.161987516Z - 1xxq7zif8dhcsx - ERROR -   WARNING: The scripts accelerate, accelerate-config, accelerate-estimate-memory, accelerate-launch and accelerate-merge-weights are installed in '/root/.local/bin' which is not on PATH. - RUNNING
+2024-12-23T17:33:00.161994488Z - 1xxq7zif8dhcsy - ERROR -   Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location. - RUNNING
+2024-12-23T17:33:00.162001123Z - 1xxq7zif8dhcsz - ERROR -   WARNING: The script trl is installed in '/root/.local/bin' which is not on PATH. - RUNNING
+2024-12-23T17:33:00.162011035Z - 1xxq7zif8dhct0 - ERROR -   Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location. - RUNNING
+2024-12-23T17:33:02.160950685Z - 1xxq7zif8dhct1 - ERROR - WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager, possibly rendering your system unusable.It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv. Use the --root-user-action option if you know what you are doing and want to suppress this warning. - RUNNING
